@@ -1,0 +1,16 @@
+:root {
+  --belay-granite: #16191D; /* Primary background */
+  --belay-slate: #262C33; /* Raised surfaces, borders */
+  --belay-chalk: #F3EFE6; /* Text on dark; light background */
+  --belay-rope: #FF5B1F; /* Accent: the mark, highlights */
+  --belay-rope-on-light: #E0480F;
+  --belay-copper: #C8834B; /* Secondary: circuit traces, pads */
+  --belay-copper-on-light: #9A5A2C;
+  --belay-grey: #A3A9B1; /* Secondary text on dark */
+  --belay-grey-dim: #8A9099; /* Labels on dark */
+  --belay-code-bg: #0E1013; /* Terminal and code blocks */
+
+  --belay-font-display: "Space Grotesk", system-ui, sans-serif;
+  --belay-font-body: "Inter", system-ui, sans-serif;
+  --belay-font-mono: "JetBrains Mono", ui-monospace, monospace;
+}
